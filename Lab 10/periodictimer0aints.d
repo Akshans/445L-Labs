@@ -1,0 +1,16 @@
+.\periodictimer0aints.o: PeriodicTimer0AInts.c
+.\periodictimer0aints.o: ..//inc//tm4c123gh6pm.h
+.\periodictimer0aints.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\periodictimer0aints.o: PLL.h
+.\periodictimer0aints.o: Timer0A.h
+.\periodictimer0aints.o: PWM.h
+.\periodictimer0aints.o: motor.h
+.\periodictimer0aints.o: PLL.h
+.\periodictimer0aints.o: Timer2.h
+.\periodictimer0aints.o: tach.h
+.\periodictimer0aints.o: PLL.h
+.\periodictimer0aints.o: ST7735.h
+.\periodictimer0aints.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\periodictimer0aints.o: Button.h
+.\periodictimer0aints.o: Debugger.h
+.\periodictimer0aints.o: PLL.h
